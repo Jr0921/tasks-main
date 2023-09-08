@@ -1,4 +1,4 @@
-Título do projeto: Lista de tarefas
+Título do projeto: Tasks
 
 Descrição: Um aplicativo simples de lista de tarefas desenvolvido com React.
 
